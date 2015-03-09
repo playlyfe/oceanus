@@ -1,0 +1,24 @@
+{
+  "name": "oceanus",
+  "version": "1.0.0",
+  "description": "FoundationDB serializer for efficient storage and retrieval of json",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "2.9.4",
+    "fdb": "3.0.6",
+    "lodash": "3.0.1",
+    "xxhashjs": "0.0.5"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johny Jose",
+  "license": "MIT"
+}
